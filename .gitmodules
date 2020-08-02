@@ -1,0 +1,6 @@
+[submodule "notebooks/notebooks/lib/PyCalib"]
+	path = notebooks/notebooks/lib/PyCalib
+	url = https://github.com/perellonieto/PyCalib.git
+[submodule "notebooks/lib/PyCalib"]
+	path = notebooks/lib/PyCalib
+	url = https://github.com/perellonieto/PyCalib.git
